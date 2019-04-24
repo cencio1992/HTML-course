@@ -1,0 +1,26 @@
+body {
+  background-color:cornsilk;
+}
+
+h1 {
+  color:#69779b;
+
+}
+
+h3 {
+    color:#9692af;
+      text-decoration: underline;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  background-color: red;
+  border-radius: 100%;
+}
